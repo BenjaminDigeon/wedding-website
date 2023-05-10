@@ -10,10 +10,12 @@ hugo server
 
 ## TODO
 
+- [ ] Place
+- [ ] Wedding colors
 - [ ] Wedding registry
-- [ ] Map (google maps)
 - [ ] Hotels
 - [ ] Babysitter
+- [ ] Map (google maps)
 
 ## Stack
 
